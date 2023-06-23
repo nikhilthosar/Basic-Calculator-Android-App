@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="receive">Receive</string>
+    <string name="title">Welcome to My App</string>
+</resources>
